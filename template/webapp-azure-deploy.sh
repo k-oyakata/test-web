@@ -1,6 +1,6 @@
 #!/bin/sh
 
-TARGET_RESOURCE_GROUP=user0002-webapp-tmpl-rg
+TARGET_RESOURCE_GROUP=jpy0002-webapp-tmpl-rg
 NUMBER_OF_WEB_SERVERS=3
 WEBSV_IMAGE="/subscriptions/450f731f-ced6-417a-bfa1-3e69686598dc/resourceGroups/jpy0002-webapp-images-rg/providers/Microsoft.Compute/images/webapp-websv-image"
 SSH_USER=webapusr
